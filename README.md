@@ -20,9 +20,3 @@ Bu projenin çalışması için sisteminizde aşağıdaki araçların kurulu olm
 - **FFmpeg** & **FFprobe** (Sistem yoluna eklenmiş olmalı).
 - **Demucs** (AI motoru için).
 
-```bash
-# Bağımlılıkları yükle
-pip install -r requirements.txt
-
-# Uygulamayı başlat
-python main.py
